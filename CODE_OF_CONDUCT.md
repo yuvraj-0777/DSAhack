@@ -1,6 +1,6 @@
 ## Our Standards
 
-DOs:
+DOs ✅ :
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
@@ -10,7 +10,7 @@ DOs:
 * Focusing on what is best not just for us as individuals, but for the
   overall community
 
-DON'Ts:
+DON'Ts ❌ :
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
