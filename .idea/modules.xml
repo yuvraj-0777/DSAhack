@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyDifficulty/EasyDifficulty.iml" filepath="$PROJECT_DIR$/EasyDifficulty/EasyDifficulty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hacktoberfest2023.iml" filepath="$PROJECT_DIR$/.idea/Hacktoberfest2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HardDifficulty/HardDifficulty.iml" filepath="$PROJECT_DIR$/HardDifficulty/HardDifficulty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediumDifficulty/MediumDifficulty.iml" filepath="$PROJECT_DIR$/MediumDifficulty/MediumDifficulty.iml" />
+    </modules>
+  </component>
+</project>
