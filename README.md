@@ -3,11 +3,13 @@ This is for Hacktoberfest 2023. Don't forget to give us a ⭐
 ***
 1. Solve any [leetcode](https://www.leetcode.com/) problem and ensure it isn't solved already. Write the question before solving the problem in the comments.
 2. The problem should only be solved in **Java**.
-3. Put your solution in the appropriate folder(for example if you have solved a medium question then put it in the medium difficulty folder).
-4. Don't remove other content.
-5. If someone has given the wrong answer and you want to improve it, you can do it.
-6. You can also improve the documentation if you want.
-7. **DO NOT** create a pull request before the issue is assigned to you.
+3. Write question inside /* */ before the answer to make it easier for the reader to understand.
+4. Properly name your files. For example, if you solve the problem "Two Sum", name the file Two_Sum.java
+5. Put your solution in the appropriate folder(for example if you have solved a medium question then put it in the medium difficulty folder).
+6. Don't remove other content.
+7. If someone has given the wrong answer and you want to improve it, you can do it.
+8. You can also improve the documentation if you want.
+9. **DO NOT** create a pull request before the issue is assigned to you.
 ***
 ## Getting Started 🤩🤗:
 
