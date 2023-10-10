@@ -1,12 +1,13 @@
 # Hacktoberfest2023
 This is for Hacktoberfest 2023. Don't forget to give us a ⭐
 ***
-1. Solve any leetcode problem and ensure it isn't solved already. Write the question before solving the problem in the comments.
+1. Solve any [leetcode](https://www.leetcode.com/) problem and ensure it isn't solved already. Write the question before solving the problem in the comments.
 2. The problem should only be solved in Java.
 3. Put your solution in the appropriate folder(for example if you have solved a medium question then put it in the medium difficulty folder).
 4. Don't remove other content.
 5. If someone has given the wrong answer and you want to improve it, you can do it.
 6. You can also improve the documentation if you want.
+7. **DO NOT** create a pull request before the issue is assigned to you.
 ***
 ## Getting Started 🤩🤗:
 
