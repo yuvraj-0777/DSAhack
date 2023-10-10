@@ -48,7 +48,7 @@ git push origin my-new-branch
 
 ## Contribution Guidelines:
 1. Write your solutions in Java.
-2. Properly name your files. For example, if you solve the problem "Two Sum," name the file Two_Sum.java and place it inside the appropriate difficulty folder.
+2. Properly name your files. For example, if you solve the problem "Two Sum", name the file Two_Sum.java and place it inside the appropriate difficulty folder.
 3. Include test cases with your solutions (if needed).
 4. Follow coding standards and maintain a clean, readable codebase.
 5. Ensure your code is well-documented with comments.
